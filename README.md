@@ -11,6 +11,7 @@ I'm computer science student passionate about solving challenges and creating so
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigimix&theme=codeSTACKr&hide_border=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigimix&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="150" />
+  <img src="https://raw.githubusercontent.com/rodrigimix/rodrigimix/output/snake.svg" alt="Snake animation" />
 </p>
 
 
